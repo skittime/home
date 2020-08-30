@@ -1,4 +1,4 @@
-package com.company;
+package ru.x5;
 
 public class Main {
 
